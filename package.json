@@ -2,12 +2,16 @@
   "name": "shorty",
   "version": "1.0.0",
   "description": "Node.js on Docker",
-  "author": "First Last edisontantra@gmail.com",
+  "author": "edisontantra@gmail.com",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.16.1"
+    "express": "^4.17.1",
+    "mongodb": "^3.6.9",
+    "mongoose": "^5.12.14",
+    "shortid": "^2.2.16",
+    "valid-url": "^1.0.9"
   }
 }
