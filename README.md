@@ -1,2 +1,3 @@
 # shorty
-shorten link 
+simple url shortener using express and mongodb
+
